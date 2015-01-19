@@ -21,7 +21,7 @@ EXPERIENCES
 
 
 2014 - 2015
-:   *Application Curation Board* (Remote).
+:   *Application Curation Board Member at Firefox Marketplace* (Remote).
 
     Firefox Marketplace is application store for web application and Firefox OS
 	I have responsibilites to select application to be featured on Firefox Marketplace.
