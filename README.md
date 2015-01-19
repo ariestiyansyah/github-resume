@@ -1,7 +1,7 @@
 ----
 Hello, welcome to branch 'Hello', this is introduction from me.
 
-I am a Researcher, Developer and Visionary Entrepreneur with a proven record of team leadership, web and system analyst and development, with and expertis in web and mobile application development using Bash, Javascript and some knowlegde about Rails. Passionate about Network Engineering and analyst practice and quality improvement through the effective use of knowledge, information and communication. Recently lead teams named Evone Studio and Running new startup called “anakpajak”.
+I am a Researcher, Developer and Visionary Entrepreneur with a proven record of team leadership, web and system analyst and development, with and expertis in web and mobile application development using HTML5, CSS, Javascript and some knowlegde about Rails. Passionate about Network Engineering and analyst practice and quality improvement through the effective use of knowledge, information and communication. Recently lead teams named Evone Studio and Running new startup called “anakpajak”.
 
 I am able meet deadlines and handle multiple projects, and adapts to diverse teams and projects, skilled
 communicator with exceptional interpersonal skill, and I love to learn new skill because I need to learn,
