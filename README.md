@@ -8,6 +8,7 @@ communicator with exceptional interpersonal skill, and I love to learn new skill
 learn and learn.
 
 Email : <ariestiyansyah.rizky@gmail.com>
+
 Social Media : [Twitter](http://twitter.com/ariestiyansyah) - [LinkedIn](http://linkedin.com/in/ariestiyansyah) - [Blog](http://oonlab.com)
 
 ----
