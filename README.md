@@ -12,6 +12,7 @@ Email : <ariestiyansyah.rizky@gmail.com>
 Social Media : [Twitter](http://twitter.com/ariestiyansyah) - [LinkedIn](http://linkedin.com/in/ariestiyansyah) - [Blog](http://oonlab.com)
 
 ----
+Please take a look on my memorable video in gray theme in 'video.webm'
 
 To view my experiences please go to branch 'experiences'
 To view my seminar and volunteer experiencess go to branch 'seminar'
